@@ -4,7 +4,7 @@
 💻 I am developing desktop and web apps using .NET(Razor pages, Blazor, WPF); 
 📔 ✏️ With experience in Scrum
 
-Skills: Razor Pages / C# / WPF / HTML / CSS /Blazo
+Skills: Razor Pages / C# / WPF / HTML / CSS / Blazor
 
 
 ## Some of my Github Stats
