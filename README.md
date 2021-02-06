@@ -1,14 +1,20 @@
 ### Hi there 👋, Welcome to my page! I'm Mariya
 ![](https://twitter.com/MariyaK09787320)
 
-💻 I am developing desktop and web apps using .NET(Razor pages, Blazor, WPF); 
-📔 ✏️ With experience in Scrum
+💻 I am developing desktop and web apps using .NET(Razor pages, Blazor, WPF); 📔 ✏️ With experience in Scrum
 
-Skills: Razor Pages / C# / WPF / HTML / CSS / Blazor
+Skills: Razor Pages / C# / HTML / CSS / JS / Bootstrap / EF Core
+
+- 🌱 I’m currently learning WPF, Azure, Python 
+- 📫 How to reach me: maria.kulidzhanova@gmail.com 
 
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=MariaKulidzhanova alt=MariaKulidzhanova /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MariyaKulidzhanova)  
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=MariyaKulidzhanova&show_icons=true&include_all_commits=true)](https://github.com/MariaKulidzhanova/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariyaKulidzhanova&layout=compact)](https://github.com/MariaKulidzhanova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariyaKulidzhanova)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariyaKulidzhanova&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MariyaKulidzhanova)  
+
+![Profile views](https://gpvc.arturio.dev/MariyaKulidzhanova)  
