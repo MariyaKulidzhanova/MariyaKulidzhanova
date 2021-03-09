@@ -3,9 +3,9 @@
 
 💻 I am developing desktop and web apps using .NET(Razor pages, Blazor, WPF); 📔 ✏️ With experience in Scrum
 
-Skills: Razor Pages / C# / HTML / CSS / JS / Bootstrap / EF Core
+Skills: Razor Pages / C# / HTML / CSS / Blazor / Bootstrap / EF Core / JS 
 
-- 🌱 I’m currently learning WPF, Azure, Python 
+- 🌱 I’m currently learning Blazor, WPF, Azure 
 - 📫 How to reach me: maria.kulidzhanova@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/MariyaKulidzhanova)  
