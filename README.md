@@ -1,11 +1,10 @@
 ### Hi there 👋, Welcome to my page! I'm Mariya
 ![](https://twitter.com/MariyaK09787320)
 
-💻 I am developing desktop and web apps using .NET(Razor pages, Blazor, WPF); 📔 ✏️ With experience in Scrum
+💻 I am developing desktop and web apps using .NET; 📔 ✏️ Experience in Scrum
 
-Skills: Razor Pages / C# / HTML / CSS / Blazor / Bootstrap / EF Core / JS 
+Skills: C# / React / EF&EF Core / Razor Pages / HTML / CSS / Blazor / Bootstrap / JS 
 
-- 🌱 I’m currently learning Blazor, WPF, Azure 
 - 📫 How to reach me: maria.kulidzhanova@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/MariyaKulidzhanova)  
