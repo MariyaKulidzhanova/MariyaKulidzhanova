@@ -1,11 +1,11 @@
 ### Hi there 👋, Welcome to my page! I'm Mariya
 
 
-💻 I am developing desktop and web applicationss using .NET
+💻 I am developing web applicationss using .NET and Angular
 
 - Skills: 
  
-.NET/C# / SQL / Entity Framework and EF Core / React / API development
+.NET/ C# / Angular / SQL / Entity Framework and EF Core / React / API development
 
 - 📫 How to reach me: 
 
